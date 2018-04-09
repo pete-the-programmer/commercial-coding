@@ -1,0 +1,13 @@
+title: Commercial coding
+description: Peter the Programmer
+- Basic code quality (SOLID, DRY/WET, maintainability)
+21
+- Test automation & coverage
+22
+- Version Control
+23
+- CI
+24
+- Continuous Deployment
+25
+- Health monitoring & alerting
